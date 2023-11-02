@@ -1,4 +1,4 @@
-<h1 align="center">First Java program:</h1>
+<h1 align="center">First Java program:-</h1>
 <p align="center">The first code for Java coding.</p>
 <div align="center" >
 <img height="100" wedith="100" src="https://www.gif-maniac.com/gifs/50/49799.gif"></div>
