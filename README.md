@@ -19,7 +19,7 @@
 
 - Once Java is installed, you can run the program by following these steps:
 <hr>
-<h1 align="center">Clone the repository:</h1>
+<h1 align="center">Clone the repository:-</h1>
 
 <h2 align="center">BASH</h2>
 <h3 align=" center" >Copy code </h3>
