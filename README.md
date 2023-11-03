@@ -65,7 +65,7 @@
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 <hr>
-<h1 align="center">Acknowledgements</h1>
+<h1 align="center">Acknowledgements:</h1>
 
 - I would like to thank my Java instructor for introducing me to the language and inspiring me to pursue programming.
 -  Without their guidance, I wouldn't have been able to write this code.
