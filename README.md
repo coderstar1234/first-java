@@ -23,7 +23,7 @@
 
 <h2 align="center">BASH</h2>
 <h3 align=" center" >Copy code </h3>
-<h3 align=" center" >local machine:📺 </h3>
+<h3 align=" center" >local machine:-📺 </h3>
 <div align="center" >
 <img height="100" wedith="100" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
 
