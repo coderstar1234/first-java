@@ -7,7 +7,7 @@
 
 - This project contains the first Java code I ever wrote. It is a simple "Hello, World!" program that prints a greeting to the console.
 <hr>
-<h1 align="center">Getting Started</h1>
+<h1 align="center">Getting Started:-</h1>
 
 - To run the program, you'll need to have Java installed on your machine. You can check if Java is installed by running the following command in your terminal:
 <hr>
